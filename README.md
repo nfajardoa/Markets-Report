@@ -1,2 +1,2 @@
 # markets-reports
-Automatic generation and publishing of daily, weekly and monthly markets reports
+Automatic generation and publishing of a daily market report.
